@@ -1,0 +1,114 @@
+/* ---------- Header ------------- */
+
+.header {
+  background-color: black;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ul-li {
+  display: flex;
+  gap: 10px;
+  list-style: none;
+}
+
+.ul-li a {
+  text-decoration: none;
+  color: white;
+}
+
+/* -------------- Header End ------- */
+/* -------------- HTML Tutorial start ---- */
+
+.home-next {
+  padding-top: 5px;
+  background-color: rgb(4, 170, 109);
+  border-color: #04aa6d;
+  font-size: 18px;
+  width: 80px;
+  align-items: center;
+  border-radius: 5px;
+}
+
+/*--------------- HTML Tutorial end---- */
+/* -------------- About HTML start ---- */
+
+.study {
+  padding-top: 5px;
+  background-color: rgb(4, 170, 109);
+  border-color: #04aa6d;
+  font-size: 18px;
+  border-radius: 5px;
+}
+
+.watch {
+  padding-top: 5px;
+  background-color: black;
+  border-color: #04aa6d;
+  font-size: 18px;
+  color: white;
+  border-radius: 5px;
+}
+
+/* ------------- About HTML End ------ */
+/* ------------- HTML Examples start -------- */
+
+.example {
+  padding: 5px 10px;
+  background-color: rgb(4, 170, 109);
+  border-color: #04aa6d;
+  font-size: 18px;
+  border-radius: 5px;
+}
+
+/* -------------- HTML Examples End ------  */
+/* -------------- Exercise start ---------- */
+
+.exercise {
+  font-size: 34px;
+}
+
+.title-p {
+  font-size: 20px;
+}
+
+.submit-ans {
+    display: flex;
+    align-items: center;
+    background-color: rgb(231,233,235);
+}
+
+.input {
+    background-color: #ffffff;
+    display: inline-block;
+    height: 1.3em;
+    width: 50px;
+    height: 20px;
+    border: none;
+}
+
+.submit-ans p:first-child {
+    padding: 0 10px;
+}
+.submit {
+  padding: 5px 10px;
+  background-color: rgb(4, 170, 109);
+  border-color: #04aa6d;
+  font-size: 18px;
+  border-radius: 5px;
+}
+
+.start-li {
+  list-style: none;
+  padding: 0;
+}
+
+.start-li a {
+  list-style: none;
+  font-size: 20px;
+  color: black;
+}
+
+/* ---------------------- Exercise END ---------- */
